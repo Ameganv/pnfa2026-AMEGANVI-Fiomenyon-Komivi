@@ -35,9 +35,7 @@ ce que l'élève fait avec :
 
 
  croquis ou esquisse annotée
-(versée dans `docs/medias/`).
-
-## 5. Architecture technique pressentie
+(versée dans `docs/medias/`).![image du dispositif]. Architecture technique pressentie
 
 Capteurs: 
 - Un capteur de dioxyde de carbone à mesure infrarouge non dispersive·
