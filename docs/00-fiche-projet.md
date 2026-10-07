@@ -35,7 +35,18 @@ ce que l'élève fait avec :
 
 
  croquis ou esquisse annotée
-(versée dans `docs/medias/`).![image du dispositif]. Architecture technique pressentie
+(versée dans `docs/medias/`).![image du dispositif](../docs/medias/2026-09-16/photo_%20duu%20montage%20du%20dispositif.jpg) 
+![image du dispositif](../docs/medias/2026-09-16/photo_de%20teste%20du%20dispositif.jpg) 
+![imagr du fin dispositif](../docs/medias/2026-09-16/fin%20dispositif.jpg) 
+- ![image](../docs/medias/2026-09-16/photo_4.0.jpg)
+  
+  
+  
+  
+  
+  
+  
+  hitecture technique pressentie
 
 Capteurs: 
 - Un capteur de dioxyde de carbone à mesure infrarouge non dispersive·
